@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maick Mosquera<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<img src="https://raw.githubusercontent.com/Maickmos/Maickmos/main/assets/Banner.png" align="center" alt=" Banner header image">
+<img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, Maick Mosquera, Mechatronics Engineer, with knowledge in Machine learning, data analysis, automation statistics, programming and robotics. I am finishing my undergraduate thesis on deep learning (AI).
@@ -74,4 +74,11 @@ I am a persevering person with the capacity to learn with qualities such as: res
 </p>
 
 </br>
+
+### Some of my Projects!
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Game_Snake_Just_String)](https://github.com/MaickMos/Game_Snake_Just_String)
+
+</Br>
 
