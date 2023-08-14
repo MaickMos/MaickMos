@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maick Mosquera<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<img src="https://raw.githubusercontent.com/Maickmos/Maickmos/main/assets/header.jpg" align="center" alt=" Banner header image">
+<img src="https://raw.githubusercontent.com/Maickmos/Maickmos/main/assets/Banner.png" align="center" alt=" Banner header image">
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, Maick Mosquera, Mechatronics Engineer, with knowledge in Machine learning, data analysis, automation statistics, programming and robotics. I am finishing my undergraduate thesis on deep learning (AI).
