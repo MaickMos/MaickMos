@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Maick Mosquera<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
+
+
+
+<h3 align="center">Hi, Maick Mosquera, Mechatronics Engineer, with knowledge in Machine learning, data analysis, automation statistics, programming and robotics. </h3>
+
+
+-------
+
 <img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
 
--------------------
-&emsp;
-<h3 align="left">Hi 👋, Maick Mosquera, Mechatronics Engineer, with knowledge in Machine learning, data analysis, automation statistics, programming and robotics. 
-I am a persevering person with the capacity to learn with qualities such as: responsibility, organization, initiative and interdisciplinary knowledge.</h3>
-&emsp;
 
 -------------------
+
 &emsp;
+- 💬 I'm a persevering person with the capacity to learn with qualities such as: responsibility, organization, initiative and interdisciplinary knowledge.
 - 🤖 I'm apasionate about artificial intelligence, data analysis, machine learning, data collection, and exploring the realms of intelligent technologies.
 - 🔭 Although I'm not currently employed, I am actively engaged in self-improvement through coursework and skill-building. 
-- 🌱 I am enthusiastic about expanding my skill set by delving into a diverse range of tools and technologies relevant to my interests. I am committed to continuous growth and staying updated with the latest advancements in my chosen fields.
+- 🌱 I'm enthusiastic about expanding my skill set by delving into a diverse range of tools and technologies relevant to my interests. I am committed to continuous growth and staying updated with the latest advancements in my chosen fields.
 
 &emsp;
+
+
 
 ## My Social Media:
 
