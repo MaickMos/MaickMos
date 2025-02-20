@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Hi, Maick Mosquera, Mechatronics Engineer, with knowledge in Machine learning, data analysis, automation statistics, programming and robotics. </h3>
+<h3 align="center">Hi, I'm Maick Mosquera. I work on projects related to machine learning, data science, data analysis, automation, statistics, programming, and robotics. Passionate about solving complex problems through technology and data-driven solutions.</h3>
 
 
 -------
@@ -85,10 +85,10 @@
 ### Some of my Projects!
 <Br>
   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=zrive-ds)](https://github.com/MaickMos/zrive-ds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=data_science_applied)](https://github.com/MaickMos/data_science_applied)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Applications_Deep_Learning_Robotics)](https://github.com/MaickMos/Applications_Deep_Learning_Robotics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Downloader-videos-and-data-analyzer)](https://github.com/MaickMos/Downloader-videos-and-data-analyzer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Detection_tracking_Face)](https://github.com/MaickMos/Detection_tracking_Face)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Game_Snake_Just_String)](https://github.com/MaickMos/Game_Snake_Just_String)
 
 </Br>
 
