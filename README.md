@@ -2,8 +2,7 @@
 
 
 
-
-<h3 align="center">Hi, I'm Maick Mosquera. I work on projects related to machine learning, data science, data analysis, automation, statistics, programming, and robotics. Passionate about solving complex problems through technology and data-driven solutions.</h3>
+<h3 align="center">Hi, I'm Maick Mosquera. passionate about solving problems through programming, machine learning, data science, data analysis, automation, statistics, programming, and robotics. I build tools using Python, SQL, and Power BI, and I'm currently focused on backend logic, data processing, and web scraping. </h3>
 
 
 -------
@@ -11,27 +10,38 @@
 <img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
 
 
--------------------
+## 🔧 Tech Stack
 
-&emsp;
-- 💬 I'm a persevering person with the capacity to learn with qualities such as: responsibility, organization, initiative and interdisciplinary knowledge.
+- **Languages:** Python, SQL, VBA
+- **Data & Visualization:** Pandas, Power BI, Excel, Matplotlib
+- **Automation:** Selenium, Web Scraping, Macros
+- **Tools:** Git, VS Code, Jupyter
+- **Databases:** PostgreSQL, SQLite
+  
+
+
+## 👤 About me
 - 🤖 I'm apasionate about artificial intelligence, data analysis, machine learning, data collection, and exploring the realms of intelligent technologies.
-- 🔭 Although I'm not currently employed, I am actively engaged in self-improvement through coursework and skill-building. 
 - 🌱 I'm enthusiastic about expanding my skill set by delving into a diverse range of tools and technologies relevant to my interests. I am committed to continuous growth and staying updated with the latest advancements in my chosen fields.
 
+
+## 🎯 Currently Learning
+
+- Advanced Python (APIs, testing, OOP)
+- Database design and querying (PostgreSQL)
+- Deploying Python tools (Streamlit / FastAPI)
+
+
+## 🌐 My Social Media:
+
+
 &emsp;
-
-
-
-## My Social Media:
-
-
-&emsp;
-<a href="https://www.linkedin.com/in/maick-mosquera/">
-    ![Linkedin: MaickMos](https://img.shields.io/badge/-MaickMos-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=Maick298">
-    ![Twitter: Maick298](https://img.shields.io/twitter/follow/Maick298?style=social)
+<a href="https://maickmosquera.com">
+    ![Maick Mosquera - Pagina Personal](https://img.shields.io/badge/Maick%20Mosquera%20-%20maickmosquera?style=plastic&logo=%F0%9F%8C%90&color=008080)
+</a>
+<a href="https://www.linkedin.com/in/maick-mosquera/">
+    ![Linkedin: MaickMos](https://img.shields.io/badge/-Linkedin%20MaickMos-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/Maickmos/">
     ![Instagram: MaickMos](https://img.shields.io/badge/-MaickMos-000?&logo=Instagram)
