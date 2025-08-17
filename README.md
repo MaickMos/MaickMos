@@ -2,34 +2,40 @@
 
 
 
-<h3 align="center">Hi, I'm Maick Mosquera. passionate about solving problems through programming, machine learning, data science, data analysis, automation, statistics, programming, and robotics. I build tools using Python, SQL, and Power BI, and I'm currently focused on backend logic, data processing, and web scraping. </h3>
+<h3 align="center"> Mechatronics Engineer specializing in Backend Development and Data Engineering. <br> My background in mechatronics and robotics gives me a multidisciplinary perspective to solve complex problems that integrate software, data, and automation. </h3>
 
 
 -------
 
 <img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
 
-
+<h3 align="center"> I’m currently focused on backend logic, data processing, and cloud-based data engineering, while continuously learning and contributing to open-source projects. </h3>
+<h3 align="center"> I build ETL pipelines, REST APIs with FastAPI, and data solutions. </h3>
+ 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, SQL, VBA
-- **Data & Visualization:** Pandas, Power BI, Excel, Matplotlib
+- **Languages:** Python, SQL, JavaScript, VBA
+- **Data & Visualization:** Power BI, Excel, Matplotlib, Seaborn
+- **Data Engineering**: ETL Pipelines, Pandas, Apache Airflow, JSON, Parquet, AWS S3
 - **Automation:** Selenium, Web Scraping, Macros
-- **Tools:** Git, VS Code, Jupyter
-- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub(Gitflow), VS Code, Jupyter
+- **Databases:** PostgreSQL, Oracle (concepts), SQLite
+
+Backend & APIs: FastAPI, REST APIs, Testing
   
 
 
 ## 👤 About me
-- 🤖 I'm apasionate about artificial intelligence, data analysis, machine learning, data collection, and exploring the realms of intelligent technologies.
-- 🌱 I'm enthusiastic about expanding my skill set by delving into a diverse range of tools and technologies relevant to my interests. I am committed to continuous growth and staying updated with the latest advancements in my chosen fields.
+- 🤖 I’m passionate about backend development, data engineering, and intelligent technologies, with a background in mechatronics and robotics that allows me to tackle problems from a multidisciplinary perspective.
+- 🌱 I’m continuously expanding my skills, currently focusing on FastAPI, PostgreSQL, Docker, and cloud-based data solutions, while keeping up with the latest trends in AI, automation, and data science.
+🚀 I enjoy building scalable data pipelines, APIs, and automation tools that transform raw information into actionable insights.
 
 
 ## 🎯 Currently Learning
 
-- Advanced Python (APIs, testing, OOP)
-- Database design and querying (PostgreSQL)
-- Deploying Python tools (Streamlit / FastAPI)
+- Advanced Python (OOP, , Testing)
+- Database design, optimization & querying (Oracle)
+- Containerization & deployment (Docker, CI/CD, Cloud)
 
 
 ## 🌐 My Social Media:
