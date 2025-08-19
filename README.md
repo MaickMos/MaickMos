@@ -102,7 +102,7 @@ Backend & APIs: FastAPI, REST APIs, Testing
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=zrive-ds)](https://github.com/MaickMos/zrive-ds)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=data_science_applied)](https://github.com/MaickMos/data_science_applied)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=ETL_Pipeline)](https://github.com/MaickMos/data_science_applied)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Applications_Deep_Learning_Robotics)](https://github.com/MaickMos/Applications_Deep_Learning_Robotics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaickMos&repo=Downloader-videos-and-data-analyzer)](https://github.com/MaickMos/Downloader-videos-and-data-analyzer)
 
